@@ -1,0 +1,10 @@
+Package: com.zy.proxytool
+Name: proxytool
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: zy
+Author: zy
+Section: System
+Tag: System
